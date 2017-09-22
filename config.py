@@ -1,4 +1,4 @@
-# Edit this
+# Edit thisu
 
 # adidas release
 release_link = ''
