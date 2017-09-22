@@ -1,6 +1,6 @@
 # Edit this
 
-# adidas release
+# release link
 release_link = ''
 
 # tasks/proxies 
